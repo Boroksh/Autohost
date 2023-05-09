@@ -1,0 +1,30 @@
+{
+  "name": "AutoHost",
+  "version": "1",
+  "description": "Llenar host ",
+  "manifest_version": 3,
+  "permissions": [
+    "activeTab",    
+    "scripting",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "32": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  } 
+
+  
+
+  
+}
